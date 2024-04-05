@@ -1,2 +1,2 @@
-# sd_toolset
-Tool set for stable diffusion usage
+# image_generation_toolset
+An image generation toolset mainly based on diffusers
